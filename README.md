@@ -6,7 +6,7 @@ En la ciudad de Bogotá se han presentado innumerables casos de inseguridad en l
 
 ## Descripción de la solución
 
-Para solucionar el problema, se propone un sistema de reconocimiento facial que permita identificar a los delincuentes que se encuentran en la ciudad mediante las imágenes de las cámaras de seguridad las cuales se compararán con una base de datos de delincuentes, para así poder identificar de manera rapida y eficiente a los delincuentes que se encuentran en la ciudad.
+Para solucionar el problema, se propone un sistema de reconocimiento facial que permita identificar a los delincuentes que se encuentran en la ciudad mediante las imágenes de las cámaras de seguridad, las cuales se compararán con una base de datos de delincuentes, para así poder identificar de manera rapida y eficiente a los delincuentes.
 
 ## Descripción de la arquitectura
 
